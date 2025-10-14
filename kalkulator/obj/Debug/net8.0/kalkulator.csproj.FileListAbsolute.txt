@@ -1,0 +1,14 @@
+C:\Users\mkoln\Documents\nauka\aplikacje webowe\kalkulator\kalkulator\bin\Debug\net8.0\kalkulator.exe
+C:\Users\mkoln\Documents\nauka\aplikacje webowe\kalkulator\kalkulator\bin\Debug\net8.0\kalkulator.deps.json
+C:\Users\mkoln\Documents\nauka\aplikacje webowe\kalkulator\kalkulator\bin\Debug\net8.0\kalkulator.runtimeconfig.json
+C:\Users\mkoln\Documents\nauka\aplikacje webowe\kalkulator\kalkulator\bin\Debug\net8.0\kalkulator.dll
+C:\Users\mkoln\Documents\nauka\aplikacje webowe\kalkulator\kalkulator\bin\Debug\net8.0\kalkulator.pdb
+C:\Users\mkoln\Documents\nauka\aplikacje webowe\kalkulator\kalkulator\obj\Debug\net8.0\kalkulator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mkoln\Documents\nauka\aplikacje webowe\kalkulator\kalkulator\obj\Debug\net8.0\kalkulator.AssemblyInfoInputs.cache
+C:\Users\mkoln\Documents\nauka\aplikacje webowe\kalkulator\kalkulator\obj\Debug\net8.0\kalkulator.AssemblyInfo.cs
+C:\Users\mkoln\Documents\nauka\aplikacje webowe\kalkulator\kalkulator\obj\Debug\net8.0\kalkulator.csproj.CoreCompileInputs.cache
+C:\Users\mkoln\Documents\nauka\aplikacje webowe\kalkulator\kalkulator\obj\Debug\net8.0\kalkulator.dll
+C:\Users\mkoln\Documents\nauka\aplikacje webowe\kalkulator\kalkulator\obj\Debug\net8.0\refint\kalkulator.dll
+C:\Users\mkoln\Documents\nauka\aplikacje webowe\kalkulator\kalkulator\obj\Debug\net8.0\kalkulator.pdb
+C:\Users\mkoln\Documents\nauka\aplikacje webowe\kalkulator\kalkulator\obj\Debug\net8.0\kalkulator.genruntimeconfig.cache
+C:\Users\mkoln\Documents\nauka\aplikacje webowe\kalkulator\kalkulator\obj\Debug\net8.0\ref\kalkulator.dll
